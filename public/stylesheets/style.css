@@ -1,0 +1,26 @@
+/** ---- General ---- **/
+
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.container {
+    text-align: justify;
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+
+/** ---- Images ---- **/
+
+#videos img {
+    max-height: 200px;
+}
+
+#carousel img {
+    height: 800px;
+    margin: 0 auto;
+}

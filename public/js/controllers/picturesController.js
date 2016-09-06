@@ -1,4 +1,4 @@
-angular.module("swing").controller("carouselController", function ($scope) {
+angular.module("swing").controller("picturesController", function ($scope) {
 
     $scope.interval = 5000;
     $scope.noWrapSlides = false;

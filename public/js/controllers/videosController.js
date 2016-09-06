@@ -28,9 +28,12 @@ angular.module("swing").controller("videosController", function ($scope, $uibMod
         }
     ];
 
-    $scope.filePath = "videos/default.html";
+    var folder = "images/videos/";
 
-    $scope.showVideo = function (link) {
-        $scope.filePath = "videos/" + link + ".html";
-    }
+    videos = videos.map(function (video) {
+        video.linkmp4 = folder + video.link + ".mp4";
+        video.linkwebm = folder + video.link + ".webm";
+        video.linkoggtheora = folder + video.link + ".oggtheora";
+        return video;
+    });
 });

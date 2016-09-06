@@ -45,8 +45,8 @@ h6, .h6 {
 
 /** ---- Images ---- **/
 
-#videos img {
-    max-height: 200px;
+#videos video {
+    height: 500px;
 }
 
 #carousel img {

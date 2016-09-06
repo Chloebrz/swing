@@ -20,9 +20,9 @@
         <![endif]-->
 
         <!-- styles -->
-        <link rel="stylesheet" href="stylesheets/style.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="stylesheets/style.css">
 
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.min.css">
 
@@ -30,7 +30,7 @@
     </head>
 
     <body>
-        <nav class="navbar navbar-inverse navbar-fixed-top" ng-controller="headerController">
+        <nav class="navbar navbar-inverse navbar-static-top" ng-controller="headerController">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -39,7 +39,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#/">S'Wing</a>
+                    <a class="navbar-brand" href="#/">
+                        <img id="logo" src="images/s-wing.png"/>
+                    </a>
                 </div>
 
                 <div id="navbar" class="navbar-collapse collapse">
@@ -59,8 +61,18 @@
         <hr class="featurette-divider">
 
         <footer class="container">
-            <p class="pull-right"><a onclick="window.scrollTo(0, 0)">Back to top</a></p>
-            <p>&copy; 2015 Chloé Brouzes &amp; Maxime Lasserre</p>
+            <p class="pull-right"><a onclick="window.scrollTo(0, 0)">Haut de la page</a></p>
+            <p>&copy; 2016 Chloé Brouzes</p>
         </footer>
+
+        <script>window.jQuery || document.write('<script src="../js/min/jquery.min.js"><\/script>')</script>
+        <script>
+            $(document).on('click','.navbar-collapse.in',function(e) {
+                if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
+                    $(this).collapse('hide');
+                }
+            });
+        </script>
+        <script src="../js/min/bootstrap.min.js"></script>
     </body>
 </html>

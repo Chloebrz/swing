@@ -1,4 +1,4 @@
-// dependencies
+// Dependencies
 var express = require("express");
 var routes = require("./routes");
 var bodyParser = require("body-parser");

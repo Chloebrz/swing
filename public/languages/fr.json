@@ -1,0 +1,84 @@
+{
+	"navbar": {
+		"home" : "Accueil",
+		"images" : "Images"
+	},
+
+	"general" : {
+		"here" : "ici",
+		"there" : "là",
+		"or" : "ou",
+		"back_top" : "Haut de la page"
+	},
+
+	"home" : {
+		"imagine" : {
+			"title" : "Imaginez un voilier totalement révolutionnaire...",
+			"desc_sail" : "Un voilier dont les voiles se règlent seules sans intervention en fonction du cap choisi.",
+			"desc_heel" : "Un voilier qui ne gîte pas, qui ne se renverse pas.",
+			"desc_crush" : "Un voilier que le vent n’écrase pas sur l’eau, mais au contraire soulage comme les kites ou les planches à voile et qui plane d’autant plus que le vent forcit."
+		},
+		"exists" : {
+			"title" : "Ce voilier existe !",
+			"desc" : "La S’WING est une aile (wing) pendulaire (swing) qui  repose sur le principe d’un parapente transposé sur un plan horizontal. L'équilibre aérodynamique de l'aile se stabilise selon la polaire du profil en fonction  du  vent relatif et du  réglage d'assiette. Quel que soit le cap choisi, l’incidence se maintient sans intervention. Pour changer de bord - vent arrière -  il suffit d'inverser un petit levier.",
+			"add" : "De plus, l’inclinaison de la voile au vent permet d’avoir, comme sur les planches à voile ou les kites (ou le Sail Rocket), une traction ascendante sur le bateau (à la différence des voiles classiques qui l’écrasent dans l’eau).",
+			"other" : "Cette aile permet de tracter tout engin capable de maintenir un cap sur eau, sol dur, glace, neige, etc., en fonction des équipements (flotteurs, foils, roues, patins, skis…)."
+		},
+		"principle" : "Le principe",
+		"sidebar" : {
+			"title" : "3 générations de Brouzes",
+			"Paul" : "Le grand-père : Paul, calculs et brevet",
+			"FG" : "Le père et la mère : Frédéric, construction et tests prototypes, et Gisèle, soutien logistique",
+			"CAF" : "Les enfants : Chloé, webmaster, et Arthur et Félix, participation aux essais des prototypes"
+		}
+	},
+
+	"description" : {
+
+	},
+
+	"pictures" : {
+		"videos" : {
+			"title" : "Vidéos",
+			"desc" : "Ce projet a commencé par la validation du concept grâce à des calculs complexes. Puis a suivi la construction de prototypes de plus en plus avancés afin de tester le concept en navigation. Les vidéos ci-dessous dressent un historique de ces prototypes et présentent un virement sous différents angles."
+		},
+		"images" : {
+			"title" : "Photos",
+			"desc" : "La série de photos suivante présente différentes versions du gréément et des flotteurs réalisés."
+		}
+	},
+
+	"triul" : {
+		"previous" : {
+			"title" : "S'Wing et antécédents",
+			"intro" : "La S'Wing est l'aboutissement de plusieurs projets destinés à éliminer ou réduire les inconvénients des voiliers actuels grâce à l'auto-orientation de la voilure. Le concept utilisé sur le Triul, projet précédent, était dérivé de l'équilibre aérodynamique des avions et planeurs tel que défini par Voisin : \"Centre de gravité en avant du centre de voilure, et empennage horizontal arrière inversé\", (transposé à 90 degrés pour le Triul).",
+			"desc" : "La S'Wing utilise les conditions d'équilibre aérodynamique du parapente, transposées du plan vertical au plan horizontal. Cette option permet d'alléger le dispositif en remplaçant la voilure de type Marconi par des voiles plus légères et le bateau par une petite nacelle indépendante de la voilure."
+		},
+		"theory" : "Le Triul : théorie et prototypes",
+		"video" : "Le Triul : démonstration en vidéo",
+		"publishing" : "Le Triul : publications",
+		"patent" : {
+			"title" : "Le Triul : brevet",
+			"desc" : "Ce projet a fait l'objet d'un dépôt de brevet, le 29 octobre 1992.",
+			"documents" : "Pour accéder à ces documents, cliquez"
+		}
+	},
+
+	"contact" : {
+		"intro" : "Notre projet vous intéresse ? Vous avez une question à propos de la S'Wing ? Pour toute information supplémentaire, ou afin de discuter avec l'un des inventeurs, n'hésitez pas à nous contacter par mail dès maintenant.",
+		"Paul" : {
+			"desc" : "Paul, le grand-père, travaille sur la partie théorique de l'invention. Responsable des nombreux calculs, il a déposé les brevets pour la S'Wing.",
+			"email" : "Si vous souhaitez contacter Paul, cliquez "
+		},
+		"Fred" : {
+			"desc" : "Fred, le père, s'occupe de la mise en pratique des calculs. Il réalise la construction, puis le test des différents prototypes de la S'Wing.",
+			"pictures" : "Des photos et vidéos",
+			"available" : " sont disponibles.",
+			"email" : "Pour envoyer un mail à Fred, cliquez "
+		},
+		"Chloe" : {
+			"desc" : "Chloé, la fille, a réalisé le site web de S'Wing afin de présenter cette invention.",
+			"email" : "Pour écrire à Chloé, c'est "
+		}
+	}
+}

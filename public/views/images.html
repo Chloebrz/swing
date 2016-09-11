@@ -1,7 +1,9 @@
 <div class="container">
     <div class="page-header">
-        <h1>Vidéos</h1>
+        <h1>{{"pictures.videos.title" | translate}}</h1>
     </div>
+
+    <p>{{"pictures.videos.desc" | translate}}</p><br />
 
     <div id="videos" ng-controller="videosController">
         <uib-carousel interval="interval" no-wrap="noWrapSlides">
@@ -19,8 +21,10 @@
     </div>
 
     <div class="page-header">
-        <h1>Photos</h1>
+        <h1>{{"pictures.images.title" | translate}}</h1>
     </div>
+
+    <p>{{"pictures.images.desc" | translate}}</p><br />
 
     <div id="carousel" ng-controller="picturesController">
         <uib-carousel interval="interval" no-wrap="noWrapSlides">

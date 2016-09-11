@@ -1,0 +1,80 @@
+{
+	"navbar": {
+		"home" : "Home",
+		"images" : "Pictures"
+	},
+
+	"general" : {
+		"here" : "here",
+		"there" : "there",
+		"or" : "or",
+		"back_top" : "Back to top"
+	},
+
+	"home" : {
+		"imagine" : {
+			"title" : "Imagine a revolutionary sailing boat...",
+			"desc_sail" : "A boat whose sails are set by themselves according to the chosen cape.",
+			"desc_heel" : "A boat which does not heel, which does not overturn.",
+			"desc_crush" : "A boat that the wind does not crush on the water, but relieves like the kite surfing or the windsurfing and hovers when the wind strengthens."
+		},
+		"exists" : {
+			"title" : "This sailing boat exists!",
+			"desc" : "The S'WING is a pendulum wing based on the principle of a paragliding reflected in the horizontal plane. The aerodynamic balance of the wing is stabilized by the polar profile according to the relative wind and the trim setting. Whatever the chosen cape, the incidence is maintained without intervention. To change tack - downwind - you just have to invert a small lever.",
+			"add" : "Moreover, the inclination of the sail with respect to the wind allows to have an upward pull on the boat (unlike conventional sails which crush it in water), like windsurfing or kite (or Sail Rocket).",
+			"other" : "This wing can tow any vehicle which can maintain a cape on water, hard ground, ice, snow, and so on, depending on the equipment (floats, foils, wheels, skates, skis, etc.)."
+		},
+		"principle" : "Principle",
+		"sidebar" : {
+			"title" : "Participation of 3 generations",
+			"Paul" : "The grandfather: Paul, computations and patent",
+			"FG" : "The father and the mother: Frédéric, prototypes construction and tests, and Gisèle, logistical support",
+			"CAF" : "The children: Chloé, webmaster, and Arthur and Félix, participation in the prototypes tests"
+		}
+	},
+
+	"pictures" : {
+		"videos" : {
+			"title" : "Videos",
+			"desc" : "This project started with the validation of the concept through complex calculations. Then, prototypes has been built to test the concept while sailing. The following videos present a brief history of those prototypes and show a tacking from different angles."
+		},
+		"images" : {
+			"title" : "Pictures",
+			"desc" : "The following series of pictures shows different versions of the rigging and the floats built to test the concept."
+		}
+	},
+
+	"triul" : {
+		"previous" : {
+			"title" : "S'Wing and antecedents",
+			"intro" : "The S'Wing is the culmination of several projects aiming to eliminate or reduce the disadvantages of current sailing through self-orientation of the wing. The concept used on the Triul, a previous project, was developed out of the aerodynamic balance of the aircraft and gliders as defined by Voisin: \"centre of gravity forward the centre of the wing and rear horizontal tailplane inverted\" (transposed in 90 degrees for Triul).",
+			"desc" : "The S'Wing uses the aerodynamic balance conditions of the paragliding, transposed from the vertical plane to the horizontal plane. This option allows to lighten the device by replacing the Marconi type wing by lighter sails and the boat by a small nacelle independent of the wing."
+		},
+		"theory" : "The Triul : theory and prototypes",
+		"video" : "The Triul : video demonstration",
+		"publishing" : "Le Triul : publishings",
+		"patent" : {
+			"title" : "The Triul : patent",
+			"desc" : "This project was registered as a patent, on October the 29th 1992.",
+			"documents" : "To see those documents, click "
+		}
+	},
+
+	"contact" : {
+		"intro" : "Are you interested in our project? Do you want additional information or discuss with one of the inventors? If you have any question about the S'Wing, do not hesitate: contact us right now by email.",
+		"Paul" : {
+			"desc" : "The grand-father, Paul, works on the theory. He is responsible for the numerous calculations and applied for a patent.",
+			"email" : "If you want to contact Paul, click "
+		},
+		"Fred" : {
+			"desc" : "Fred, the father, takes care of the implementation. He builds then tests prototypes of the S'Wing.",
+			"pictures" : "Pictures and videos",
+			"available" : " are available.",
+			"email" : "To send an email to Fred, click "
+		},
+		"Chloe" : {
+			"desc" : "The daughter, Chloé, built this website to present the S'Wing invention.",
+			"email" : "To write to Chloé, it's "
+		}
+	}
+}

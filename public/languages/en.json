@@ -33,6 +33,157 @@
 		}
 	},
 
+	"description" : {
+		"presentation" : {
+			"title" : "State of the current art and presentation of the invention",
+			"current_desc" : "To sail, the proper incidence of the wing with respect to the wind must be maintained. The interventions on the settings of the wing which require delicacy manoeuvres and significant tensile stress are limited as much as possible. As long as the changes of the wind direction stay moderate, we prefer to deviate the boat rather than change the wing settings. Therefore, we need frequently to react on the cape, and the path towards the destination is extended.",
+			"current_drawbacks" : "The wind pressure on the sail inclines the boats and increases the trail. On mono-hulls, this inclination is limited by the ballast which is generally suspended to the keel. But this method burdens the boat and limits the navigation in shallow waters. On multi-hulls, large side floats are used, but they do not eliminate the risk of capsizing. On the opposite, the windsurfing inclined towards the wind and the kite-surfing pulled by a kite benefit from a lightening which reduces the trail, but they are reserved to trained athletes because of their acrobatic piloting.",
+			"current_compression" : "On the most commonly used rigs, the wing is strongly stretched between the top of the mast and boom in order to maintain an efficient airfoil, which involves very large compressive stresses on the mast. ",
+			"current_spi" : "Other kind of sails are sometimes disposed on the front on the boat, especially spinnakers. They are reserved for downwind because it is difficult to give them an efficient airfoil and their gybe involve delicate manoeuvres.",
+			"swing_advantages" : "According to the invention, the devices remove or reduce those drawbacks:",
+			"swing_advantage_desc" : "We adopted the pendulum concept governing the aerodynamic stability of para-gliders and hang-gliders in the vertical plane, but transposed in the horizontal plane. There is no need to change the cape to deviate the wing because it rotates independently of the boat and maintains its incidence relative to the wind direction without intervention.",
+			"swing_fixation" : "The pendulum fixation of the device on the boat, on which is applied the tensile force, is much lower than the centre of the wing on traditional boats. Consequently, the overturning moment is much lower and it is not necessary to use ballast or large floats to limit the heel. The inclination of the wing to the back directs the wind up, alleviating the boat and reducing the trail. The forces required to maintain the aerodynamic profile of the wing are supported mainly by the rigging lines connected to the bollard.",
+			"swing_sail" : "As the sail and the rig are independent of the boat, they can be removed for manoeuvres without wind or jettisoned in the event of a disaster.",
+			"swing_wind" : "When stopped or in light winds, a structure based on the front on small swivel floats can support the wing, but when the wind is sufficient it can be raised for a more sportive navigation.",
+			"swing_gybe" : "Lets note that depending on the invention, the devices do not allow to change tack upwind. This drawback, which does not exist on the former sailing boats, kite surfing and proas, is offset by the easiness of various manoeuvres. To watch the demonstration of a gybe, click "
+		},
+		"application" : {
+			"title" : "Some applications of the S'Wing",
+			"use" : "The S'Wing can pull any kind of device on water, land, ice, snow and so on. The only limit to this wing use is its owner's imagination! Floats, foils, wheels, stakes, skis, everything works!",
+			"figures" : "The series of figures below shows some examples of use cases."
+		},
+		"advantages" : {
+			"title" : "Benefits of the S'Wing",
+			"table" : {
+				"thead" : "Voiliers classiques",
+				"tr1" : {
+					"td1" : "Boat",
+					"td2" : "Floats, hulls, various boats",
+					"td3" : "Sailing boats (with anti-heel provision)"
+				},
+				"tr2" : {
+					"td1" : "Rig",
+					"td2" : "Independant of the boat on annex floats",
+					"td3" : "Mast, spar, tackle, integrated into the boat"
+				},
+				"tr3" : {
+					"td1" : "Sails set",
+					"td2" : "Pendulaire, auto orientable",
+					"td3" : "Type Marconi, foc, spi"
+				},
+				"tr4" : {
+					"td1" : "Sail tilt",
+					"td2" : "According to the desired angle to relieve the boat",
+					"td3" : "Heel due to the wind (increases the trail and slows the boat)"
+				},
+				"tr5" : {
+					"td1" : "Push in the wind",
+					"td2" : "Upwards (to relieve the boat)",
+					"td3" : "Downwards (because of the heel), increases the trail"
+				},
+				"tr6" : {
+					"td1" : "Application point",
+					"td2" : "On a pivot on the deck",
+					"td3" : "At the core of the wing (about 1/3 of the sail)"
+				},
+				"tr7" : {
+					"td1" : "Tare-weight torque",
+					"td2" : "Reduced",
+					"td3" : "High (requires anti heel devices)"
+				},
+				"tr8" : {
+					"td1" : "Anti-heel provisions",
+					"td2" : "Not involved",
+					"td3" : "Ballast, deep keel, high multi-hulls width"
+				},
+				"tr9" : {
+					"td1" : "Various manœuvres",
+					"td2" : "3 adjustments in the control position",
+					"td3" : "Complex procedures which mobilise the crew"
+				},
+				"tr10" : {
+					"td1" : "Sails orientation",
+					"td2" : "Automatic, without any intervention",
+					"td3" : "Needed interventions on the tiller in order to adapt to the wind fluctuations"
+				},
+				"tr11" : {
+					"td1" : "Trajectory",
+					"td2" : "Direct towards the cape",
+					"td3" : "Extended by the deviations due to the wind fluctuations"
+				},
+				"tr12" : {
+					"td1" : "Setting of the sails",
+					"td2" : "Only in the case of a meterological change",
+					"td3" : "Numerous and complex during manoeuvres and wind fluctuations"
+				},
+				"tr13" : {
+					"td1" : "Manoeuvres",
+					"td2" : "Control levers (effortless)",
+					"td3" : "Cables and ropeworks adjustments thanks to tackles or winches"
+				},
+				"tr14" : {
+					"td1" : "Tack change",
+					"td2" : "Slightly affected stability",
+					"td3" : "Move the crew and heavy charge, luff if necessary"
+				},
+				"tr15" : {
+					"td1" : "Tack change upwind",
+					"td2" : "Dynamic gybe (small loss to the wind)",
+					"td3" : "Tack change upwind"
+				},
+				"tr16" : {
+					"td1" : "Tack change downwind",
+					"td2" : "Easy gybe, effortless",
+					"td3" : "Classical gybe"
+				},
+				"tr17" : {
+					"td1" : "Spinnaker",
+					"td2" : "Useless",
+					"td3" : "Manage and adjust"
+				},
+				"tr18" : {
+					"td1" : "Beating",
+					"td2" : "Dynamic gybes with a small loss to the wind",
+					"td3" : "Tack change upwind"
+				},
+				"tr19" : {
+					"td1" : "Risks of snagging",
+					"td2" : "Limited because boat without appendix",
+					"td3" : "Deep keel or centre-board on shoals, seaweed, whales"
+				},
+				"tr20" : {
+					"td1" : "Risks of overturning",
+					"td2" : "Limited",
+					"td3" : "Criticisms on the multi-hulls"
+				},
+				"tr21" : {
+					"td1" : "In the event of a disaster",
+					"td2" : "Sail and structure easily removed",
+					"td3" : "Shear the cables, get off the mast, rise the centre-board"
+				},
+				"tr22" : {
+					"td1" : "Rescue",
+					"td2" : "The boat can be seen as a survival cell",
+					"td3" : "A safety dinghy is needed"
+				},
+				"tr23" : {
+					"td1" : "Storage",
+					"td2" : "Sail and structure left on a buoy or on the ground",
+					"td3" : "Lowered sail but cumbersome rig"
+				},
+				"tr24" : {
+					"td1" : "Small moves",
+					"td2" : "With the engine (small boat without rig nor keel)",
+					"td3" : "Cumbersome sailing boat"
+				}
+			}
+		},
+		"modelisation" : {
+			"title" : "Modelling of the S'Wing"
+		},
+		"gybe" : "Gybe"
+	},
+
 	"pictures" : {
 		"videos" : {
 			"title" : "Videos",

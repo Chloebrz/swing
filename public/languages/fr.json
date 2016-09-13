@@ -34,7 +34,153 @@
 	},
 
 	"description" : {
-
+		"presentation" : {
+			"title" : "Etat de la technique actuelle et présentation de l'invention",
+			"current_desc" : "Pour naviguer à la voile il faut maintenir l’incidence correcte de la voilure par rapport à la direction du vent. Les interventions sur les réglages de la voilure qui nécessitent des manœuvres délicates et des efforts de tension très importants sont limitées autant que possible. Tant que les fluctuations de direction du vent restent modérées on préfère dévier le bateau plutôt que de modifier les réglages de la voilure. En conséquence il faut intervenir fréquemment sur le cap, et la trajectoire vers la destination est rallongée.",
+			"current_drawbacks" : "La poussée du vent sur les voiles incline les bateaux et augmente la traînée. Sur les monocoques cette inclinaison est limitée par du lest généralement suspendu à la quille. Cela alourdit le bateau et  limite l'évolution en eaux peu profondes. Sur les multicoques on utilise de grands  flotteurs  latéraux qui n'éliminent pas  le risque de chavirage. Les planches à voile inclinées au vent et les kitesurf  tirés par cerf-volant bénéficient - au contraire - d’un allègement réduisant la trainée, mais leur pilotage acrobatique les réserve à des sportifs entraînés.",
+			"current_compression" : "Sur les gréements les plus couramment utilisés  la voilure est tendue fortement entre le haut du mât et la  bôme afin de maintenir un profil aérodynamique performant, ce qui implique des efforts de compression très importants sur le mât.",
+			"current_spi" : "D'autres types de voiles  sont parfois disposés à l'avant, spinnaker notamment. Elles sont réservées aux  vents portants car il est difficile de leur donner un  profil  aérodynamique performant et leur empannage implique des manœuvres délicates.",
+			"swing_advantages" : "Les dispositifs selon l'invention suppriment ou réduisent ces inconvénients :<br />On a adopté le concept pendulaire qui régit la stabilité aérodynamique des parapentes et deltaplanes dans le plan vertical, mais transposé dans le plan horizontal. Il n’est plus nécessaire de modifier le cap pour dévier la voilure, car elle pivote indépendamment du bateau et maintient sans intervention son incidence par rapport à la direction du vent.",
+			"swing_fixation" : "La  fixation pendulaire du  dispositif  sur le bateau, sur laquelle s’exerce la force de traction, est  beaucoup plus basse que le centre de voilure sur les bateaux  traditionnels. En conséquence le couple de renversement est beaucoup plus faible et il n’est pas nécessaire de recourir à  du lest ou à de volumineux flotteurs pour limiter la gîte. L'inclinaison de la voilure vers l’arrière oriente la poussée du vent vers le haut, ce qui allège le voilier et  réduit sa traînée. Les forces nécessaires pour maintenir le profil aérodynamique de la voile sont supportées pour l'essentiel par les suspentes reliées à la patte d'amarrage.",
+			"swing_sail" : "L'ensemble voilure - gréement étant indépendant du bateau, il peut être déposé pour les manœuvres sans vent ou largué en cas de sinistre.",
+			"swing_wind" : "A l’arrêt et dans les vents faibles, une structure reposant à l’avant sur de petits flotteurs pivotants peut supporter la voilure, mais lorsque le vent est suffisant  elle  peut être soulevée pour une navigation plus sportive.",
+			"swing_gybe" : "Il faut noter que les dispositifs selon l'invention ne permettent pas de virer face au vent. Cet inconvénient, que l’on retrouve aussi sur les anciens voiliers, les kitesurf, les praos et  autres engins, est compensé  par la facilité avec laquelle les diverses manœuvres peuvent être réalisées. Pour voir une démonstration en images du déroulement d'un empannage, cliquez "
+		},
+		"application" : {
+			"title" : "Quelques applications de la S'Wing",
+			"use" : "La S'Wing permet de tracter toute sorte d'engin sur eau, sol dur, glace, neige, etc. La seule limite à l'utilisation de cette aile est l'imagination de son possesseur ! Flotteurs, foils, roues, patins, skis, tout fonctionne !",
+			"figures" : "La série de figure ci-dessous présente quelques exemples d'utilisation."
+		},
+		"advantages" : {
+			"title" : "Les avantages de la S'Wing",
+			"table" : {
+				"thead" : "Voiliers classiques",
+				"tr1" : {
+					"td1" : "Bateau",
+					"td2" : "Peuvent contenir flotteurs, carènes, divers bateaux",
+					"td3" : "Voiliers (avec dispositifs anti gîte)"
+				},
+				"tr2" : {
+					"td1" : "Gréement",
+					"td2" : "Indépendant du bateau sur flotteurs annexes",
+					"td3" : "Mâture, espars, agrès, intégrés au bateau"
+				},
+				"tr3" : {
+					"td1" : "Voilure",
+					"td2" : "Pendulaire, auto orientable",
+					"td3" : "Type Marconi, foc, spi"
+				},
+				"tr4" : {
+					"td1" : "Inclinaison de la voile",
+					"td2" : "Selon angle désiré pour soulager le bateau",
+					"td3": "Gîte du au vent (augmente la traînée et ralentit le bateau)"
+				},
+				"tr5" : {
+					"td1" : "Poussée au vent",
+					"td2" : "Vers le haut (pour soulager le bateau)",
+					"td3" : "Vers le bas (à cause de la gîte), augmente la traînée"
+				},
+				"tr6" : {
+					"td1" : "Point d'application",
+					"td2" : "Sur un pivot au niveau du pont",
+					"td3" : "Au centre de la voilure (environ 1/3 de la voile)"
+				},
+				"tr7" : {
+					"td1" : "Couple de renversement",
+					"td2" : "Réduit",
+					"td3" : "Fort (exige des dispositifs anti gîte)"
+				},
+				"tr8" : {
+					"td1" : "Dispositions anti gîte",
+					"td2" : "Peu concerné",
+					"td3" : "Lest, quille profonde, ballastage, grande largeur des multicoques"
+				},
+				"tr9" : {
+					"td1" : "Diverses manœuvres",
+					"td2" : "3 réglages au poste de commande",
+					"td3" : "Procédures complexes qui mobilisent l'équipage"
+				},
+				"tr10" : {
+					"td1" : "Orientation des voiles",
+					"td2" : "Automatique, sans intervention",
+					"td3" : "Interventions sur la barre nécessaires pour s'adapter aux fluctuations du vent"
+				},
+				"tr11" : {
+					"td1" : "Trajectoire",
+					"td2" : "Directe au cap",
+					"td3" : "Rallongée par les déviations dues aux fluctuations du vent"
+				},
+				"tr12" : {
+					"td1" : "Réglages des voiles",
+					"td2" : "Seulement en cas de changement météorologique",
+					"td3" : "Nombreux et complexes aux manœuvres et fluctuations du vent"
+				},
+				"tr13" : {
+					"td1" : "Manœuvres",
+					"td2" : "Leviers de commande (sans effort)",
+					"td3" : "Réglages de câbles et cordages par palans ou winchs"
+				},
+				"tr14" : {
+					"td1" : "Changement de bord",
+					"td2" : "Stabilité peu affectée",
+					"td3" : "Déplacer l'équipage et charge lourde, lofer si nécessaire"
+				},
+				"tr15" : {
+					"td1" : "Virement vent de face",
+					"td2" : "Empannage dynamique (petite perte au vent)",
+					"td3" : "Virement bout au vent"
+				},
+				"tr16" : {
+					"td1" : "Virement vent arrière",
+					"td2" : "Empannage aisé, sans effort",
+					"td3" : "Empannage classique"
+				},
+				"tr17" : {
+					"td1" : "Spinnaker",
+					"td2" : "Inutile",
+					"td3" : "Gréer et régler"
+				},
+				"tr18" : {
+					"td1" : "Louvoyage",
+					"td2" : "Empannages dynamiques avec petite perte au vent",
+					"td3" : "Virements bout au vent"
+				},
+				"tr19" : {
+					"td1" : "Risques d'accrochage",
+					"td2" : "Limités car bateau sans appendice",
+					"td3" : "Quilles ou dérivées profondes sur hauts fonds, algues, baleines"
+				},
+				"tr20" : {
+					"td1" : "Risques de retournement",
+					"td2" : "Limités",
+					"td3" : "Critiques sur les multicoques"
+				},
+				"tr21" : {
+					"td1" : "En cas de sinistre",
+					"td2" : "Voile-structure facilement larguées",
+					"td3" : "Cisailler les câbles, abattre le mât, remonter la dérive"
+				},
+				"tr22" : {
+					"td1" : "Sauvetage",
+					"td2" : "Le bateau peut constituer une cellule de survie",
+					"td3" : "Il faut une annexe de secours"
+				},
+				"tr23" : {
+					"td1" : "Stockage",
+					"td2" : "Voile-structure larguées sur bouée ou au sol",
+					"td3" : "Voile affalée mais gréement encombrant"
+				},
+				"tr24" : {
+					"td1" : "Petits déplacements",
+					"td2" : "Au moteur (petit bateau sans gréement ni quille)",
+					"td3" : "Voilier encombrant"
+				}
+			}
+		},
+		"modelisation" : {
+			"title" : "Modélisation de la S'Wing"
+		},
+		"gybe" : "Empannage"
 	},
 
 	"pictures" : {
